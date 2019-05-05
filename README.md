@@ -10,3 +10,5 @@ java Hoppmain
 ```
 
 To start, click 'Nytt Spel'.
+
+![screenshot](screenshot.png)
